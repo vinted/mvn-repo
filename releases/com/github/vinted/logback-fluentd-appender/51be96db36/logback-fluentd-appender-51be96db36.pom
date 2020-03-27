@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.vinted</groupId>
   <artifactId>logback-fluentd-appender</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>${version}</version>
   <packaging>jar</packaging>
   <name>logback-fluentd-appender</name>
   <description>fluentd logback appender</description>
