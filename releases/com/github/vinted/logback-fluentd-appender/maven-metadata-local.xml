@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.vinted</groupId>
+  <artifactId>logback-fluentd-appender</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200327135650</lastUpdated>
+  </versioning>
+</metadata>
